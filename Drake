@@ -1,0 +1,15 @@
+#include<iostream>
+#include<string>
+using namespace std;
+
+int main(int argc, char const *argv[])
+{
+    const string startStem = "Drake the type of";
+    const string startDrake1 = "guy to";
+    const string startDrake2 = "lad to";
+    
+    const string drake1 = "cover your eyes from behind and whisper into your ear Guess Who";
+    return 0;
+
+    // input
+}
